@@ -125,6 +125,48 @@ body {
   display: none;
 }
 
+/* --- Recipe readability improvements --- */
+
+.recipe-detail {
+  font-size: 1.05rem;
+}
+
+.recipe-detail h2 {
+  margin-top: 0;
+}
+
+.recipe-detail ol li {
+  margin-bottom: 0.6rem;
+}
+
+.recipe-detail ul li {
+  margin-bottom: 0.4rem;
+}
+
+/* --- Method step improvements --- */
+
+#recipeMethod {
+  padding-left: 1.2rem;
+}
+
+#recipeMethod li {
+  margin-bottom: 0.75rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+#recipeMethod li:hover {
+  background: #f0f4f8;
+}
+
+.active-step {
+  background: #d8e6f3;
+  border-radius: 6px;
+  padding: 0.2rem 0.3rem;
+}
+
+/* --- Mobile adjustments only --- */
+
 @media (max-width: 600px) {
   .site-header h1 {
     font-size: 1.6rem;
@@ -137,44 +179,5 @@ body {
   .recipe-detail section,
   .recipe-meta {
     padding: 0.9rem;
-  }
-
-  .recipe-detail ol li {
-    margin-bottom: 0.6rem;
-  }
-
-  .recipe-detail ul li {
-    margin-bottom: 0.4rem;
-  }
-
-  .recipe-detail h2 {
-    margin-top: 0;
-  }
-
-  .recipe-detail {
-    font-size: 1.05rem;
-  }
-
-  #recipeMethod {
-    padding-left: 1.2rem;
-  }
-
-  #recipeMethod li {
-    margin-bottom: 0.75rem;
-  }
-
-  #recipeMethod li {
-    cursor: pointer;
-    transition: background 0.2s ease;
-  }
-
-  #recipeMethod li:hover {
-    background: #f0f4f8;
-  }
-
-  .active-step {
-    background: #d8e6f3;
-    border-radius: 6px;
-    padding: 0.2rem 0.3rem;
   }
 }

@@ -35,19 +35,10 @@ function renderRecipe(recipe) {
 
   fillList("recipeIngredients", recipe.ingredients);
   fillList("recipeMethod", recipe.method);
-
-  makeStepsClickable();
-  function makeStepsClickable() {
-    const steps = document.querySelectorAll("#recipeMethod li");
-
-    steps.forEach(step => {
-      step.addEventListener("click", () => {
-        step.classList.toggle("active-step");
-      });
-    });
-  }
   fillList("recipeTips", recipe.tips);
   fillList("recipeNotes", recipe.notes);
+
+  makeStepsClickable();
 
   toggleSection("tipsSection", recipe.tips);
   toggleSection("notesSection", recipe.notes);
@@ -75,6 +66,16 @@ function toggleSection(sectionId, items) {
   if (!items || items.length === 0) {
     section.classList.add("hidden");
   }
+}
+
+function makeStepsClickable() {
+  const steps = document.querySelectorAll("#recipeMethod li");
+
+  steps.forEach(step => {
+    step.addEventListener("click", () => {
+      step.classList.toggle("active-step");
+    });
+  });
 }
 
 loadRecipe();
