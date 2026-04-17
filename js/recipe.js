@@ -43,6 +43,14 @@ function renderRecipe(recipe) {
   toggleSection("tipsSection", recipe.tips);
   toggleSection("notesSection", recipe.notes);
 
+  if ('wakeLock' in navigator) {
+    try {
+      navigator.wakeLock.request('screen');
+    } catch (err) {
+      console.log('Wake lock failed:', err);
+    }
+  }
+
   document.getElementById("recipeContent").classList.remove("hidden");
 }
 
