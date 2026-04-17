@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recipes LN</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Recipes LN</h1>
+      <p class="subtitle">Family recipes for home and university cooking</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search recipes..."
+        aria-label="Search recipes"
+      />
+      <div id="categoryFilters" class="category-filters"></div>
+    </section>
+
+    <section>
+      <div id="recipeList" class="recipe-grid"></div>
+      <p id="noResultsMessage" class="hidden">No recipes found.</p>
+    </section>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

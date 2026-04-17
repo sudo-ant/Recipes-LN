@@ -1,0 +1,199 @@
+[
+  {
+    "id": "chicken-paella",
+    "title": "Chicken Paella",
+    "subtitle": "Simple family version",
+    "category": "Rice",
+    "tags": ["family favourite", "one pan"],
+    "serves": "2–3",
+    "time": "45 mins",
+    "ingredients": [
+      "6 small chicken legs or 4 small thighs",
+      "olive oil",
+      "salt",
+      "2 handfuls green beans",
+      "1 large tomato (or 2 small), chopped",
+      "2–3 garlic cloves, chopped",
+      "1 mug risotto rice",
+      "2 mugs water",
+      "1 chicken stock cube",
+      "1 sprig rosemary"
+    ],
+    "method": [
+      "Heat a good splash of olive oil in the pan on high heat.",
+      "Season the chicken with salt and brown it well on all sides on high heat.",
+      "Add the green beans and cook on high heat until softened and slightly browned.",
+      "Add the garlic and cook for about 30 seconds (do not let it burn), then add the tomato. Cook on medium heat until the tomato breaks down.",
+      "Add the rice and stir for 1 minute.",
+      "Add the water and crumble in the stock cube. Stir once and spread everything evenly.",
+      "Do not stir again once the rice is cooking.",
+      "Cook on medium heat until most of the liquid is absorbed.",
+      "Place the rosemary on top.",
+      "Lower the heat, cover with a lid, and cook until the rice is done.",
+      "Leave to rest for 5 minutes before serving."
+    ],
+    "tips": [
+      "If the rice is still hard and the pan is dry, add a little more water.",
+      "Do not keep stirring or the rice will not cook properly.",
+      "A slightly crispy bottom is good, but do not let it burn."
+    ],
+    "notes": [
+      "This is your simplified home version, not a traditional recipe."
+    ]
+  },
+  {
+    "id": "grannys-soup",
+    "title": "Granny’s Soup",
+    "subtitle": "Simple chicken stock vegetable soup",
+    "category": "Soup",
+    "tags": ["easy", "comforting"],
+    "serves": "4",
+    "time": "35 mins",
+    "ingredients": [
+      "1.5 litres chicken stock (or water with stock cubes)",
+      "1 bunch spring onions",
+      "2 carrots",
+      "2 sticks celery",
+      "1 leek",
+      "small handful parsley",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Slice the spring onions, carrots, celery and leek.",
+      "Chop the parsley.",
+      "Bring the stock to the boil in a large pan.",
+      "Add the vegetables and bring back to the boil.",
+      "Lower the heat and simmer for 25–30 minutes until the vegetables are soft.",
+      "Add the parsley for the last few minutes.",
+      "Taste and adjust salt and pepper."
+    ],
+    "tips": [
+      "Cut the carrots fairly small so they cook in time.",
+      "If using stock cubes, make the stock first before adding vegetables."
+    ],
+    "notes": [
+      "You can leave out celery or leek, but not both or the soup loses flavour.",
+      "Quantities do not need to be exact."
+    ]
+  },
+  {
+    "id": "sopa-de-lentejas",
+    "title": "Sopa de Lentejas",
+    "subtitle": "Colombian lentil and potato soup",
+    "category": "Soup",
+    "tags": ["filling", "good leftovers"],
+    "serves": "4–6",
+    "time": "1 hr 15 mins",
+    "ingredients": [
+      "2 large carrots, peeled and diced",
+      "225g lentils, rinsed",
+      "1.5 litres water",
+      "2 vegetable stock cubes",
+      "1 teaspoon ground cumin",
+      "3 medium potatoes, peeled and diced",
+      "small handful fresh coriander, chopped",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Add the carrots, lentils, water, stock cubes and cumin to a large pot.",
+      "Bring to the boil, then lower the heat and simmer.",
+      "Cook until the lentils are nearly soft.",
+      "Add the potatoes and continue cooking for 25–30 minutes until tender.",
+      "Add the coriander at the end.",
+      "Taste and adjust salt and pepper before serving."
+    ],
+    "tips": [
+      "If the soup gets too thick, add a little more water.",
+      "This is often better the next day."
+    ],
+    "notes": [
+      "For extra flavour, fry chopped bacon first, then add the rest of the ingredients.",
+      "You can also add chopped sausages instead."
+    ]
+  },
+  {
+    "id": "caldito",
+    "title": "Caldito",
+    "subtitle": "Colombian chicken and potato soup",
+    "category": "Soup",
+    "tags": ["comforting", "family favourite"],
+    "serves": "6",
+    "time": "55 mins",
+    "ingredients": [
+      "2 chicken breasts (on the bone if possible)",
+      "2.5–3 litres water",
+      "2–3 chicken stock cubes",
+      "1 teaspoon ground cumin",
+      "1 bunch spring onions",
+      "2 packs coriander",
+      "500g potatoes, peeled and cut into chunks",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Put the chicken, water, cumin, salt and pepper into a large pot.",
+      "Tie the spring onions and one pack of coriander together and add to the pot.",
+      "Bring to the boil, then lower the heat and simmer for about 25 minutes.",
+      "Remove the chicken from the pot.",
+      "Add a stock cube if needed and stir.",
+      "Add the potatoes.",
+      "While the potatoes are cooking, take the meat off the bone and pull it apart into small pieces using two forks.",
+      "Cook the potatoes for 15–20 minutes until soft.",
+      "Remove and discard the tied herbs.",
+      "Serve the soup and place the chicken pieces on top.",
+      "Add chopped fresh coriander (second pack) before serving."
+    ],
+    "tips": [
+      "Taste the broth after removing the chicken and adjust stock if needed.",
+      "Pulling the chicken apart with forks gives a better texture than cutting it."
+    ],
+    "notes": [
+      "Serving the chicken on top keeps it from overcooking."
+    ]
+  },
+  {
+    "id": "shepherds-pie",
+    "title": "Shepherd’s Pie",
+    "subtitle": "Classic mince and mashed potato dish",
+    "category": "Meat",
+    "tags": ["comforting", "good leftovers"],
+    "serves": "4–6",
+    "time": "1 hr 30 mins",
+    "ingredients": [
+      "500g minced beef",
+      "1 large onion",
+      "250g frozen mixed vegetables",
+      "1 tin chopped or plum tomatoes",
+      "700g potatoes",
+      "butter or margarine",
+      "milk",
+      "grated cheddar cheese",
+      "Worcestershire sauce",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Slice the onion and cook in butter or oil with a little salt until soft.",
+      "Add the minced beef and cook until browned.",
+      "Add Worcestershire sauce and pepper.",
+      "Cook the frozen vegetables separately in boiling water, then drain.",
+      "Add the vegetables to the meat and mix.",
+      "Pour into an oven dish and spread out evenly.",
+      "Spoon the tomatoes over the top.",
+      "Peel and boil the potatoes until soft, then drain.",
+      "Mash with butter and a little milk.",
+      "Spread the mashed potato over the meat.",
+      "Sprinkle grated cheese on top.",
+      "Bake at 180°C until the top is golden (about 45–60 minutes)."
+    ],
+    "tips": [
+      "Let it rest for a few minutes before serving.",
+      "Make extra and freeze one portion."
+    ],
+    "notes": [
+      "You can add crushed crisps on top for extra crunch."
+    ]
+  }
+]

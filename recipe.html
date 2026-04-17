@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recipe | Recipes LN</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="back-link">← Back to recipes</a>
+      <h1 id="recipeTitle">Recipe</h1>
+      <p id="recipeSubtitle" class="subtitle"></p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="recipeContent" class="recipe-detail hidden">
+      <div class="recipe-meta">
+        <p><strong>Serves:</strong> <span id="recipeServes"></span></p>
+        <p><strong>Time:</strong> <span id="recipeTime"></span></p>
+        <p><strong>Category:</strong> <span id="recipeCategory"></span></p>
+      </div>
+
+      <section>
+        <h2>Ingredients</h2>
+        <ul id="recipeIngredients"></ul>
+      </section>
+
+      <section>
+        <h2>Method</h2>
+        <ol id="recipeMethod"></ol>
+      </section>
+
+      <section id="tipsSection">
+        <h2>Tips</h2>
+        <ul id="recipeTips"></ul>
+      </section>
+
+      <section id="notesSection">
+        <h2>Notes</h2>
+        <ul id="recipeNotes"></ul>
+      </section>
+    </section>
+
+    <p id="recipeNotFound" class="hidden">Recipe not found.</p>
+  </main>
+
+  <script src="js/recipe.js"></script>
+</body>
+</html>
