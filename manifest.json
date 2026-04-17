@@ -1,0 +1,23 @@
+{
+    "name": "Recipes LN",
+    "short_name": "Recipes LN",
+    "start_url": "/Recipes-LN/",
+    "scope": "/Recipes-LN/",
+    "display": "standalone",
+    "background_color": "#1f3b57",
+    "theme_color": "#1f3b57",
+    "icons": [
+        {
+            "src": "images/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
