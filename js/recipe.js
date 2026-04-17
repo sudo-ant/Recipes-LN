@@ -35,6 +35,17 @@ function renderRecipe(recipe) {
 
   fillList("recipeIngredients", recipe.ingredients);
   fillList("recipeMethod", recipe.method);
+
+  makeStepsClickable();
+  function makeStepsClickable() {
+    const steps = document.querySelectorAll("#recipeMethod li");
+
+    steps.forEach(step => {
+      step.addEventListener("click", () => {
+        step.classList.toggle("active-step");
+      });
+    });
+  }
   fillList("recipeTips", recipe.tips);
   fillList("recipeNotes", recipe.notes);
 
