@@ -70,8 +70,9 @@ function renderRecipes() {
   noResultsMessage.classList.add("hidden");
 
   filteredRecipes.forEach(recipe => {
-    const card = document.createElement("article");
+    const card = document.createElement("a");
     card.className = "recipe-card";
+    card.href = `recipe.html?id=${recipe.id}`;
 
     card.innerHTML = `
       <h2>${recipe.title}</h2>
@@ -79,7 +80,6 @@ function renderRecipes() {
       <p><strong>Serves:</strong> ${recipe.serves}</p>
       <p><strong>Time:</strong> ${recipe.time}</p>
       <p><strong>Category:</strong> ${recipe.category}</p>
-      <a href="recipe.html?id=${recipe.id}">Open recipe</a>
     `;
 
     recipeList.appendChild(card);

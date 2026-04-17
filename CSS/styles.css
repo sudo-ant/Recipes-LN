@@ -73,10 +73,19 @@ body {
 }
 
 .recipe-card {
+  display: block;
   background: #fff;
   border-radius: 12px;
   padding: 1rem;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.recipe-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
 }
 
 .recipe-card h2 {
@@ -87,14 +96,6 @@ body {
 
 .recipe-card p {
   margin: 0.35rem 0;
-}
-
-.recipe-card a {
-  display: inline-block;
-  margin-top: 0.75rem;
-  text-decoration: none;
-  font-weight: bold;
-  color: #1f3b57;
 }
 
 .recipe-meta {
