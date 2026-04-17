@@ -453,5 +453,236 @@
       "Granny Smith apples work well where cooking apples are not available.",
       "Ground almonds help absorb juice from the apples."
     ]
+  },
+  {
+    "id": "cheese-cake",
+    "title": "Cheese Cake",
+    "subtitle": "Classic baked cheesecake with sour cream topping",
+    "category": "Desserts",
+    "tags": [
+      "dessert",
+      "baked",
+      "family recipe"
+    ],
+    "serves": "6–8",
+    "time": "about 1 hr + cooling",
+    "ingredients": [
+      "50g margarine or butter",
+      "1 cup biscuit crumbs (digestive or similar)",
+      "4 eggs",
+      "1 cup caster sugar",
+      "700g curd cheese",
+      "1 teaspoon vanilla essence",
+      "250ml sour cream",
+      "25g caster sugar (for topping)",
+      "1 teaspoon vanilla essence (for topping)"
+    ],
+    "equipment": [
+      "7–8 inch round cake tin (loose bottom if possible)"
+    ],
+    "method": [
+      "Heat the oven to 160°C.",
+      "Melt the butter and mix with the biscuit crumbs.",
+      "Press into the base of the tin.",
+      "Mix the cheese, sugar and vanilla.",
+      "Add the eggs one at a time, mixing between each.",
+      "Pour into the tin.",
+      "Bake for 35 minutes.",
+      "Turn off the oven, open the door slightly and leave to cool inside.",
+      "Remove from oven once cool.",
+      "Increase oven to 180°C.",
+      "Mix the sour cream, sugar and vanilla.",
+      "Spread over the cake.",
+      "Return to the oven for 5 minutes.",
+      "Cool and refrigerate."
+    ],
+    "tips": [
+      "Do not rush the cooling stage or it may crack.",
+      "Best made the day before."
+    ],
+    "notes": [
+      "Use a loose-bottom tin if possible."
+    ]
+  },
+  {
+    "id": "abues-arroz-de-leche",
+    "title": "Abue’s Arroz de Leche",
+    "subtitle": "Creamy rice pudding with coconut and spices",
+    "category": "Desserts",
+    "tags": [
+      "pudding",
+      "family recipe",
+      "comfort food"
+    ],
+    "serves": "6",
+    "time": "about 1 hr",
+    "ingredients": [
+      "1 cup rice",
+      "3 cups coconut milk",
+      "2 cinnamon sticks",
+      "2 star anise",
+      "1 tablespoon butter",
+      "1 tin sweetened condensed milk",
+      "1 egg yolk, mixed with a little milk",
+      "1 shot vodka or aguardiente (optional)",
+      "1.5–2 litres full-fat milk"
+    ],
+    "equipment": [
+      "large saucepan"
+    ],
+    "method": [
+      "Heat the coconut milk, cinnamon, star anise and butter.",
+      "Just before boiling, add the washed rice.",
+      "Cook on medium heat, stirring regularly.",
+      "As it absorbs liquid, add milk gradually.",
+      "Continue until rice is fully cooked and creamy.",
+      "Add condensed milk to taste.",
+      "Stir in the egg yolk mixture continuously.",
+      "Add vodka or aguardiente and turn off heat.",
+      "Leave on warm hob briefly, stirring.",
+      "Cool, stirring occasionally.",
+      "Add milk if too thick when cold."
+    ],
+    "tips": [
+      "Stir regularly to prevent sticking.",
+      "Add milk gradually, not all at once.",
+      "It thickens as it cools."
+    ],
+    "notes": [
+      "Add more milk if it becomes too thick."
+    ]
+  },
+  {
+    "id": "thai-green-curry",
+    "title": "Thai Green Curry",
+    "subtitle": "Simple chicken green curry",
+    "category": "Meat",
+    "tags": [
+      "quick meal",
+      "asian",
+      "spicy"
+    ],
+    "serves": "4",
+    "time": "25–30 mins",
+    "ingredients": [
+      "1 tablespoon vegetable oil",
+      "2–4 teaspoons green curry paste",
+      "1 tin (400ml) coconut milk",
+      "400ml chicken stock",
+      "500g chicken breast, sliced",
+      "green beans",
+      "1 tablespoon fish sauce",
+      "kaffir lime leaves (optional)",
+      "Thai basil (optional)"
+    ],
+    "method": [
+      "Heat oil in a pan or wok.",
+      "Add curry paste and cook for 1–2 minutes.",
+      "Add chicken and coat well.",
+      "Add coconut milk and stock.",
+      "Add green beans and fish sauce.",
+      "Add lime leaves if using.",
+      "Simmer 8–10 minutes until chicken is cooked.",
+      "Add optional vegetables if using.",
+      "Remove from heat and add Thai basil."
+    ],
+    "tips": [
+      "Adjust curry paste for spice level.",
+      "Do not overcook the chicken."
+    ],
+    "notes": [
+      "Kaffir lime leaves are usually kept in the freezer.",
+      "If the curry needs more liquid, add more stock."
+    ]
+  },
+  {
+    "id": "meatballs-tomato-sauce",
+    "title": "Meatballs in Tomato Sauce",
+    "subtitle": "Simple meatballs with fresh tomato sauce",
+    "category": "Meat",
+    "tags": [
+      "quick meal",
+      "family meal"
+    ],
+    "serves": "2–3",
+    "time": "about 45 mins",
+    "ingredients": [
+      "pack of 12 meatballs",
+      "4–6 tomatoes (tomate chucha)",
+      "2 garlic cloves, chopped",
+      "1 small onion, chopped",
+      "olive oil",
+      "salt",
+      "pepper",
+      "oregano or basil (optional)",
+      "1 glass wine (optional)",
+      "balsamic vinegar (optional)"
+    ],
+    "method": [
+      "Cut tomatoes into chunks.",
+      "Heat oil and brown meatballs (5–7 minutes).",
+      "Remove and set aside.",
+      "Cook onion until soft.",
+      "Add garlic briefly.",
+      "Add tomatoes and seasoning.",
+      "Add wine or balsamic if using.",
+      "Cook 10–15 minutes, breaking tomatoes down.",
+      "Add water if needed.",
+      "Return meatballs.",
+      "Cover and cook 15–20 minutes.",
+      "Adjust seasoning."
+    ],
+    "tips": [
+      "Browning adds most of the flavour.",
+      "Reduce uncovered if too watery."
+    ],
+    "notes": [
+      "Tomate chucha is watery so allow time to reduce."
+    ]
+  },
+  {
+    "id": "chicken-vegetable-stir-fry",
+    "title": "Chicken and Vegetable Stir-Fry",
+    "subtitle": "Quick chicken stir-fry with vegetables",
+    "category": "Meat",
+    "tags": [
+      "quick meal",
+      "weekday",
+      "healthy"
+    ],
+    "serves": "4",
+    "time": "25 mins",
+    "ingredients": [
+      "2 chicken breasts, sliced",
+      "½ Chinese cabbage, sliced",
+      "green beans, cut",
+      "1 small onion, sliced",
+      "2 garlic cloves, chopped",
+      "small piece ginger, chopped",
+      "2–3 tablespoons soy sauce",
+      "oil",
+      "black pepper"
+    ],
+    "method": [
+      "Prepare everything before starting.",
+      "Heat oil on high.",
+      "Cook chicken about 5 minutes.",
+      "Push aside or remove.",
+      "Cook onion 2–3 minutes.",
+      "Add garlic and ginger briefly.",
+      "Add green beans 3–4 minutes.",
+      "Add cabbage 2–3 minutes.",
+      "Return chicken.",
+      "Add soy sauce and pepper.",
+      "Cook 2–3 minutes and serve."
+    ],
+    "tips": [
+      "Keep heat high throughout.",
+      "Do not overcrowd the pan."
+    ],
+    "notes": [
+      "Serve with rice or noodles.",
+      "You can add hoisin or oyster sauce for variation."
+    ]
   }
 ]
