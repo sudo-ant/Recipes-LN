@@ -211,5 +211,247 @@
     "notes": [
       "You can add crushed crisps on top for extra crunch."
     ]
+  },
+  {
+    "id": "slow-cooked-lamb-green-lentils",
+    "title": "Slow-cooked Lamb with Green Lentils",
+    "subtitle": "Slow-cooked lamb with lentils, tomatoes and mint",
+    "category": "Meat",
+    "tags": [
+      "slow cook",
+      "family meal",
+      "good leftovers"
+    ],
+    "serves": "4",
+    "time": "about 4 hrs",
+    "ingredients": [
+      "1.5–1.8kg shoulder or leg of lamb (on the bone or boned, both fine)",
+      "1 medium onion, sliced",
+      "3 garlic cloves, chopped",
+      "2 teaspoons dried oregano",
+      "juice of 1 lemon",
+      "2 tablespoons olive oil",
+      "300ml red or white wine",
+      "1 mug green lentils",
+      "3 mugs water",
+      "half a jar of sun-dried tomatoes, cut into halves or quarters",
+      "1 pack fresh mint",
+      "salt",
+      "pepper"
+    ],
+    "equipment": [
+      "casserole dish with lid"
+    ],
+    "method": [
+      "Heat the oven to 180°C.",
+      "Season the lamb with salt and pepper.",
+      "Scatter the onion in the bottom of the casserole dish and put the lamb on top.",
+      "Add the garlic, oregano, lemon juice, olive oil and wine.",
+      "Cover with the lid and cook for 30 minutes.",
+      "Remove from the oven and add the lentils, water, tomatoes and mint.",
+      "Stir everything around the lamb.",
+      "Cover again and return to the oven at 150°C.",
+      "Cook for about 3 hours, until the lamb is very tender.",
+      "Remove the lamb and cut or pull it into pieces.",
+      "Serve the lamb with the lentils spooned around it."
+    ],
+    "tips": [
+      "Check from time to time that there is enough liquid in the casserole.",
+      "If it looks too dry, add a little water.",
+      "This works well with either shoulder or leg."
+    ],
+    "notes": [
+      "You can use Puy or green lentils lentils.",
+    ]
+  },
+  {
+    "id": "thai-chicken-tom-yum",
+    "title": "Thai Chicken Tom Yum",
+    "subtitle": "Hot and sour chicken soup",
+    "category": "Soup",
+    "tags": [
+      "spicy",
+      "asian",
+      "family favourite"
+    ],
+    "serves": "4",
+    "time": "45 mins",
+    "ingredients": [
+      "1 tablespoon vegetable oil",
+      "2 chicken breasts, thinly sliced",
+      "1 onion, diced",
+      "1 litre chicken stock",
+      "300g mushrooms, sliced",
+      "green beans",
+      "6 kaffir lime leaves",
+      "6 slices galangal",
+      "3 stalks lemongrass, cut into pieces",
+      "1 Thai chilli, finely chopped",
+      "2 tablespoons fish sauce",
+      "2 small tomatoes, cut into wedges",
+      "juice of 1 lime",
+      "small handful coriander, chopped",
+      "salt"
+    ],
+    "method": [
+      "Heat the oil in a large pot over medium-high heat.",
+      "Add the onion and cook for a few minutes until starting to soften.",
+      "Add the stock, mushrooms, lime leaves, galangal, lemongrass, chilli and fish sauce.",
+      "Bring to the boil, then lower the heat and simmer for about 10 minutes.",
+      "Add the chicken and green beans and cook for about 10 minutes.",
+      "Add the tomatoes and cook for about 5 minutes.",
+      "Remove from the heat.",
+      "Stir in the lime juice.",
+      "Taste and add salt if needed.",
+      "Serve and garnish with chopped coriander."
+    ],
+    "tips": [
+      "Do not eat the lime leaves, galangal or lemongrass pieces.",
+      "If you want it less spicy, use less chilli.",
+      "Add the lime juice at the end so it keeps its sharp flavour."
+    ],
+    "notes": [
+      "The herbs (lemongrass, galangal, lime leaves) are usually kept in the freezer.",
+      "Serve with noodles or rice for a main course."
+    ]
+  },
+  {
+    "id": "piquant-tomato-soup",
+    "title": "Piquant Tomato Soup",
+    "subtitle": "Smooth tomato soup with a slightly sharp flavour",
+    "category": "Soup",
+    "tags": [
+      "smooth soup",
+      "vegetarian",
+      "freezer-friendly"
+    ],
+    "serves": "6–8",
+    "time": "1 hr",
+    "ingredients": [
+      "25g margarine or butter",
+      "1 large onion, sliced",
+      "1 small carrot, sliced",
+      "1 stick celery, sliced",
+      "2 tablespoons brown sugar",
+      "2 teaspoons salt",
+      "1 garlic clove, crushed",
+      "thin peel from ½ lemon",
+      "a few black peppercorns",
+      "1 bay leaf",
+      "1 teaspoon dried oregano",
+      "1 tin whole plum tomatoes with their juice",
+      "2 tablespoons tomato purée",
+      "1 litre stock, made with cubes if needed"
+    ],
+    "method": [
+      "Melt the margarine or butter in a large saucepan over low heat.",
+      "Add the onion, carrot and celery.",
+      "Cover and cook gently for about 10 minutes until softened, without browning.",
+      "Add all the remaining ingredients.",
+      "Bring to the boil, then lower the heat and simmer for about 45 minutes until the vegetables are tender.",
+      "Remove the bay leaf and lemon peel.",
+      "Blend until smooth.",
+      "Return to the pan, heat through and serve."
+    ],
+    "tips": [
+      "Keep the vegetables gentle at the start. Do not let them brown.",
+      "Blend carefully while hot.",
+      "Add a little water or stock if it feels too thick after blending."
+    ],
+    "notes": [
+      "You do not use the optional thickening or vermicelli from the original recipe."
+    ]
+  },
+  {
+    "id": "grannys-red-cabbage",
+    "title": "Granny’s Red Cabbage",
+    "subtitle": "Sweet and sharp red cabbage with apple",
+    "category": "Vegetables",
+    "tags": [
+      "side dish",
+      "freezer-friendly",
+      "family recipe"
+    ],
+    "serves": "4–6",
+    "time": "1–2 hrs",
+    "ingredients": [
+      "50g margarine",
+      "1 large onion, sliced",
+      "1 garlic clove, crushed (optional)",
+      "1 red cabbage, shredded",
+      "2 apples (cooking apples or Granny Smith)",
+      "2 cloves",
+      "4 tablespoons red or white wine vinegar",
+      "4 tablespoons water",
+      "1 tablespoon sugar",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Melt the margarine in a large saucepan.",
+      "Add the onion and garlic and cook for about 5 minutes.",
+      "Add the cabbage and apples and cook gently for 10 minutes, stirring now and then.",
+      "Add the cloves, vinegar, water, sugar, salt and pepper.",
+      "Bring to the boil.",
+      "Lower the heat, cover and cook for 1 to 2 hours until the cabbage is tender and the liquid has been absorbed.",
+      "Taste and adjust seasoning if needed."
+    ],
+    "tips": [
+      "Stir it occasionally so it does not catch.",
+      "The cabbage should be soft, not watery.",
+      "This freezes well."
+    ],
+    "notes": [
+      "Granny Smith apples work well where cooking apples are not available.",
+      "This can also be cooked in the microwave."
+    ]
+  },
+  {
+    "id": "apple-strudel",
+    "title": "Apple Strudel",
+    "subtitle": "Puff pastry apple strudel",
+    "category": "Desserts",
+    "tags": [
+      "dessert",
+      "pastry",
+      "family favourite"
+    ],
+    "serves": "6–8",
+    "time": "35–40 mins",
+    "ingredients": [
+      "500g puff pastry",
+      "4–6 apples (cooking apples or Granny Smith)",
+      "2–3 tablespoons Demerara sugar",
+      "3–4 tablespoons ground almonds",
+      "2–3 teaspoons cinnamon",
+      "2–3 tablespoons raisins",
+      "extra Demerara sugar for the top"
+    ],
+    "equipment": [
+      "baking tray or tin"
+    ],
+    "method": [
+      "Heat the oven to 180°C.",
+      "Roll out the pastry into 2 rectangles.",
+      "Mix the sugar, ground almonds, cinnamon and raisins together.",
+      "Spread some of the mixture in a line down the middle of each pastry rectangle.",
+      "Peel and core the apples.",
+      "Cut the apples into pieces and place them on top of the mixture.",
+      "Sprinkle the rest of the sugar mixture over the apples.",
+      "Moisten the edges of the pastry with water.",
+      "Fold one long side over the filling, then fold the other side over and press to seal.",
+      "Fold in the ends and press them closed.",
+      "Moisten the top and sprinkle Demerara sugar over it.",
+      "Bake for 15–20 minutes until golden."
+    ],
+    "tips": [
+      "Do not overfill or it becomes harder to seal.",
+      "Serve warm or cold.",
+      "This amount makes 2 strudels."
+    ],
+    "notes": [
+      "Granny Smith apples work well where cooking apples are not available.",
+      "Ground almonds help absorb juice from the apples."
+    ]
   }
 ]
