@@ -258,4 +258,13 @@ body {
   #recipeMethod li {
     padding: 0.35rem 0.4rem;
   }
+
+  .recipe-detail a {
+    color: #1f3b57;
+    text-decoration: underline;
+  }
+
+  .recipe-detail a:hover {
+    text-decoration: none;
+  }
 }

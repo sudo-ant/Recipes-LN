@@ -36,7 +36,7 @@ function renderRecipe(recipe) {
   fillList("recipeIngredients", recipe.ingredients);
   fillList("recipeMethod", recipe.method);
   fillList("recipeTips", recipe.tips);
-  fillList("recipeNotes", recipe.notes);
+  fillList("recipeNotes", recipe.notes, true);
 
   makeStepsClickable();
 
@@ -54,7 +54,7 @@ function renderRecipe(recipe) {
   document.getElementById("recipeContent").classList.remove("hidden");
 }
 
-function fillList(elementId, items) {
+function fillList(elementId, items, allowHtml = false) {
   const list = document.getElementById(elementId);
   list.innerHTML = "";
 
@@ -64,7 +64,13 @@ function fillList(elementId, items) {
 
   items.forEach(item => {
     const li = document.createElement("li");
-    li.textContent = item;
+
+    if (allowHtml) {
+      li.innerHTML = item;
+    } else {
+      li.textContent = item;
+    }
+
     list.appendChild(li);
   });
 }
