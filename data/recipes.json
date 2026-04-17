@@ -4,7 +4,10 @@
     "title": "Chicken Paella",
     "subtitle": "Simple family version",
     "category": "Rice",
-    "tags": ["family favourite", "one pan"],
+    "tags": [
+      "family favourite",
+      "one pan"
+    ],
     "serves": "2–3",
     "time": "45 mins",
     "ingredients": [
@@ -38,7 +41,7 @@
       "A slightly crispy bottom is good, but do not let it burn."
     ],
     "notes": [
-      "This is your simplified home version, not a traditional recipe."
+      "This recipe is adapted from the video <a href=\"https://www.youtube.com/watch?v=L_dDUw_QuDU\" target=\"_blank\">How To Make Spanish Paella | Omar Allibhoy</a>."
     ]
   },
   {
@@ -46,7 +49,10 @@
     "title": "Granny’s Soup",
     "subtitle": "Simple chicken stock vegetable soup",
     "category": "Soup",
-    "tags": ["easy", "comforting"],
+    "tags": [
+      "easy",
+      "comforting"
+    ],
     "serves": "4",
     "time": "35 mins",
     "ingredients": [
@@ -82,7 +88,10 @@
     "title": "Sopa de Lentejas",
     "subtitle": "Colombian lentil and potato soup",
     "category": "Soup",
-    "tags": ["filling", "good leftovers"],
+    "tags": [
+      "filling",
+      "good leftovers"
+    ],
     "serves": "4–6",
     "time": "1 hr 15 mins",
     "ingredients": [
@@ -118,7 +127,10 @@
     "title": "Caldito",
     "subtitle": "Colombian chicken and potato soup",
     "category": "Soup",
-    "tags": ["comforting", "family favourite"],
+    "tags": [
+      "comforting",
+      "family favourite"
+    ],
     "serves": "6",
     "time": "55 mins",
     "ingredients": [
@@ -158,7 +170,10 @@
     "title": "Shepherd’s Pie",
     "subtitle": "Classic mince and mashed potato dish",
     "category": "Meat",
-    "tags": ["comforting", "good leftovers"],
+    "tags": [
+      "comforting",
+      "good leftovers"
+    ],
     "serves": "4–6",
     "time": "1 hr 30 mins",
     "ingredients": [
